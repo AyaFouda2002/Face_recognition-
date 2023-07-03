@@ -8,12 +8,41 @@ Face recognition is a field of computer vision that involves identifying and ver
 One important concept in face recognition is the use of eigenvectors and eigenvalues to represent images. The basic idea is to represent an image as a set of numerical values, where each value represents the intensity of a particular pixel in the image. These values can be organized into a matrix, known as the image matrix.
 The image matrix can be decomposed into its eigenvectors and eigenvalues, which provide a way to represent the image in a compressed form. While the eigenvalues depict the degree of variation in each direction, the eigenvectors depict the directions in which the picture fluctuates most. By selecting a subset of the eigenvectors and eigenvalues.
 
-## Methodology
+## Literature Review
+
+1- Stages Of Face Recognition System
+2- Face detection
+3- Face Analysis
+4- Converting the image to data
+5- Feature Extraction
+6- Face Recognition and Matching
+7- Face Verification
+8-Face Detection Techniques
+   a. Knowledge-Based
+   b. Feature-Based
+   c. Matching of Templates
+   d. Appearance-Based
+9-Life Applications of Face Recognition System
+    a. Security
+    b. Healthcare
+    c. Retail
+    d. Education
+    e. Law enforcement
+    f. Banking
+    g. Airport
+    
+### methodology
 
 
 
 ### Results
 
+
+
+
+### conclusion
+
+In conclusion, Face recognition technology is a field of computer vision that involves identifying and verifying the identity of an individual from a digital image or video frame of their face. It utilizes artificial intelligence to compare and identify individuals by analyzing and contrasting photos of human faces with a database of recognized faces. The three main components of this research project will be studied, with a focus on the eigenvector method for feature extraction. The report will also analyze the limitations of the face databases commonly used to evaluate these algorithms, which may impact the accuracy and reliability of the technology. Facial recognition technology uses eigenvectors and eigenvalues to represent images.
 
 
 
