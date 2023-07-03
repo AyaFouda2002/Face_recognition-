@@ -31,16 +31,16 @@ The image matrix can be decomposed into its eigenvectors and eigenvalues, which 
     f. Banking
     g. Airport
     
-### methodology
+## methodology
 
 
 
-### Results
+## Results
 
 
 
 
-### conclusion
+## conclusion
 
 In conclusion, Face recognition technology is a field of computer vision that involves identifying and verifying the identity of an individual from a digital image or video frame of their face. It utilizes artificial intelligence to compare and identify individuals by analyzing and contrasting photos of human faces with a database of recognized faces. The three main components of this research project will be studied, with a focus on the eigenvector method for feature extraction. The report will also analyze the limitations of the face databases commonly used to evaluate these algorithms, which may impact the accuracy and reliability of the technology. Facial recognition technology uses eigenvectors and eigenvalues to represent images.
 
