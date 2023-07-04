@@ -11,18 +11,31 @@ The image matrix can be decomposed into its eigenvectors and eigenvalues, which 
 ## Literature Review
 
 1- Stages Of Face Recognition System
+
 2- Face detection
+
 3- Face Analysis
+
 4- Converting the image to data
+
 5- Feature Extraction
+
 6- Face Recognition and Matching
+
 7- Face Verification
+
 8-Face Detection Techniques
+
    a. Knowledge-Based
+   
    b. Feature-Based
+   
    c. Matching of Templates
+   
    d. Appearance-Based
+   
 9-Life Applications of Face Recognition System
+
     a. Security
     b. Healthcare
     c. Retail
