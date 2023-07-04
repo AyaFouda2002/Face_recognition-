@@ -26,29 +26,29 @@ The image matrix can be decomposed into its eigenvectors and eigenvalues, which 
 
 8-Face Detection Techniques
 
-   a. Knowledge-Based
+     a. Knowledge-Based
    
-   b. Feature-Based
+     b. Feature-Based
    
-   c. Matching of Templates
+     c. Matching of Templates
    
-   d. Appearance-Based
+    d. Appearance-Based
    
 9-Life Applications of Face Recognition System
 
-    a. Security
+      a. Security
     
-    b. Healthcare
+      b. Healthcare
     
-    c. Retail
+      c. Retail
     
-    d. Education
+      d. Education
     
-    e. Law enforcement
+      e. Law enforcement
     
-    f. Banking
+      f. Banking
     
-    g. Airport
+       g. Airport
 
     
 ## methodology
