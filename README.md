@@ -80,12 +80,12 @@ The Eigenfaces method has proven to be a successful approach for face recognitio
 ## Results
 The ghost faces appear to be sharper for some databases. For some others, they are blurry, as in this case. The backgrounds and other features of the photographs affect how sharp the images are.The database utilized for this project has 5 pictures of 1 person in it. 4 photos in all are used. The training set is used to compute the average face. Fig. (number of fig) displays a few photos from the training set.
 
-<img src="Images/ABC_1.PNG" alt="Image" width="620px" height="auto">
+<img src="R1.PNG" alt="Image" width="620px" height="auto">
 
 
 In addition, part of 30% is in error because color images are not determined by the algorithm. Moreover, they were stationed in the middle of the light at the face.
 
-<img src="Images/ABC_1.PNG" alt="Image" width="620px" height="auto">
+<img src="R2.PNG" alt="Image" width="620px" height="auto">
 
 Face recognition is a computer vision task that involves identifying and verifying the identity of a person based on their facial features. It is a common application of machine learning and computer vision algorithms. Linear algebra plays a crucial role in many aspects of face recognition. One important application of linear algebra in face recognition is in the computation of face embeddings. A face embedding is a high-dimensional vector that represents the features of a person's face. These embeddings are computed using deep neural networks, which involve many matrix computations, such as matrix multiplication, matrix inversion, and matrix factorization.
 Once the embeddings are computed, linear algebra is also used to compare them and determine if two face images are of the same person or not. This is done using various distance metrics, such as Euclidean distance, cosine similarity, or Mahalanobis distance, which are all based on linear algebra concepts. Overall, linear algebra provides a mathematical foundation for many of the algorithms used in face recognition and is essential for understanding how these algorithms work and how to optimize their performance.
